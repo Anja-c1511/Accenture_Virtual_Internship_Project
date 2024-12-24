@@ -10,6 +10,6 @@
 - Generated valuable insights from the analysis and shared it with the client.
 ## Install Power BI Desktop
 - ![Link to install Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
-- Open the .pbix file to view the 
+- Open the ![Power BI Dashboard](https://github.com/Anja-c1511/Accenture_Virtual-_Internship_Project/blob/main/Accenture_Socialbuzz_Project.pbix) file to view the dashboard.
 ## Final Dashboard 
 ![image](https://github.com/user-attachments/assets/8b772902-7bb0-49af-a292-10f454561375)
