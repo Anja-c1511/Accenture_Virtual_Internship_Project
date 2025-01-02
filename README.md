@@ -1,5 +1,5 @@
 # Accenture_Virtual-_Internship_Project
-## Projet Requirements 
+## Project Requirements 
 - This project is done as part of a task assigned during "Accenture Data Visualization and Analytics Virtual Internship" for their client Social Buzz, a social media company.
 - Social Buzz have approched Accenture to help them make data driven decisions on content management strategy as they were facing a unprecedent surge in users ( ~ 500 million monthly active users ) and 1 lakh + pieces of content generated everyday in the form of text, audio, photos and gifs.
 - Client have asked for the analysis of their content categories to identify the Top 5 Categories based on the popularity metric given by them.
